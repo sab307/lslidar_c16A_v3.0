@@ -1,0 +1,4 @@
+build/
+install/
+log/
+lslidar_c16_local_fix.patch
